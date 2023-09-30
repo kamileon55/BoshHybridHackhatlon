@@ -43,4 +43,11 @@ https://www.tme.eu/hu/details/v-165-1c5/mikrokapcsolok-snap-action/omron-ocb/?br
 https://github.com/gnea/grbl/wiki/Wiring-Limit-Switches
 One improvement is to connect 1K to 4.7K pull up resistors to 5V and 100nF capacitors to GND.
 
+17-es léptetőmotor 300 mm-es csavarral
+https://techfun.sk/hu/produkt/krokovy-motor-nema-17-so-skrutkou-380mm/?lang=hu&currency=HUF
+
+DRV8825 motor meghajtó 2A  + Hűtőborda
+https://techfun.sk/hu/term%C3%A9k/drv8825-motor-driver-2a/
+contensator 10microF
+
 
